@@ -1,4 +1,4 @@
-# Flutter SpaceX Launch Tracker
+# SpaceX Launch Tracker
 
 Works on the spaceX API and flutter framework and we pick up the specific data.
 

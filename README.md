@@ -1,4 +1,4 @@
-# SpaceX Launch Application
+# Space-X Launch Application
 
 Works on the spaceX API and flutter framework and we pick up the specific data.
 
